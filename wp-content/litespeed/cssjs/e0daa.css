@@ -1,0 +1,17 @@
+@font-face {
+    font-family: GothamPro;
+    src: url(/wp-content/themes/keremiya1/font/gotham/GothamPro-Medium.eot);
+    src: url(/wp-content/themes/keremiya1/font/gotham/GothamPro-Medium.woff2) format("woff2"), url(/wp-content/themes/keremiya1/font/gotham/GothamPro-Medium.woff) format("woff"), url(/wp-content/themes/keremiya1/font/gotham/GothamPro-Medium.ttf) format("truetype"), url(/wp-content/themes/keremiya1/font/gotham/GothamPro-Medium.svg#GothamPro-Medium) format("svg"), url(/wp-content/themes/keremiya1/font/gotham/GothamPro-Medium.eot?#iefix) format("embedded-opentype");
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap
+}
+
+@font-face {
+    font-family: GothamPro;
+    src: url(/wp-content/themes/keremiya1/font/gotham/GothamPro-Black.eot);
+    src: url(/wp-content/themes/keremiya1/font/gotham/GothamPro-Black.woff2) format("woff2"), url(/wp-content/themes/keremiya1/font/gotham/GothamPro-Black.woff) format("woff"), url(/wp-content/themes/keremiya1/font/gotham/GothamPro-Black.ttf) format("truetype"), url(/wp-content/themes/keremiya1/font/gotham/GothamPro-Black.svg#GothamPro-Black) format("svg"), url(/wp-content/themes/keremiya1/font/gotham/GothamPro-Black.eot?#iefix) format("embedded-opentype");
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap
+}
